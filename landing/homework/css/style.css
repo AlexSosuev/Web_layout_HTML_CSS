@@ -194,12 +194,12 @@
 .advanteges-main-description{
     text-align: center;
     margin: 120px auto 55px auto;
+    padding: 92px 0 0 0;
 }
 .advanteges-main-title{
     font-size: 45px;
     font-weight: 700;
     margin-bottom: 19px;
-
 }
 .advanteges-main-text{
     font-size: 16px;
@@ -214,6 +214,7 @@
     grid-template-columns: repeat(3, 370px);
     justify-content: center;
     gap: 30px;
+    padding: 0 0 100px 0;
 }
 .advanteges-main-item{
     max-width: 370px;
